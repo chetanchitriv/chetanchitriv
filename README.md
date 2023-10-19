@@ -3,11 +3,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetanchitriv" alt="chetan" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Project Maneger**
 
 - 👨‍💻 All of my projects are available at [)
 
-- 💬 Ask me about **JavaScript, React,Java,PHP,TypeScript,SQL,Node JS,MogoDb**
+- 💬 Ask me about **Software Development**, **Mobile App Development** ,**Custom Software Develoment**, **IT-Business Planner & Strategist**
 
 - 📫 How to reach me **chetanvinkal@gmail.com**
 
