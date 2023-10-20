@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetanchitriv" alt="chetan" /></a> </p>
 
-- 🌱 I’m currently learning **Project Maneger**
+- 🌱 I’m currently Working **CTO** || **Project Maneger**
 
 - 👨‍💻 All of my projects are available at [)
 
